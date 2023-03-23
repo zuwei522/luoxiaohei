@@ -3,12 +3,14 @@ body{
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	/* background-color: ; */
 }
 .mainPage{
 	width: 70%;
 	margin: 0 auto;
 	overflow: hidden;
 	background-color: rgba(65, 156, 212, 0.7);
+	/* background-color: rgba(255, 255, 255, 0.7); */
 }
 .title{
     color: white;

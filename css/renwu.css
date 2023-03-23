@@ -1,0 +1,57 @@
+.tupian p{
+    line-height: 20px;
+    color: #333;
+    text-indent: 2em;
+    padding: 30px
+}
+.tupian{
+    width: 300px;
+    float: left;
+    margin-right: 25px;
+    background: rgba(168, 207, 56, .4);
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.tupian img{
+    width:199px;
+    display:block;
+}
+.wuxian p{
+    line-height: 20px;
+    color: #333;
+    text-indent: 2em;
+    padding: 30px
+}
+.wuxian{
+    width: 300px;
+    float: left;
+    margin-right: 25px;
+    background: rgba(168, 207, 56, .4);
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.wuxian img{
+    width:115px;
+    display:block;
+}
+.ruoshui p{
+    line-height: 20px;
+    color: #333;
+    text-indent: 2em;
+    padding: 30px
+}
+.ruoshui{
+    width: 300px;
+    float: left;
+    margin-right: 25px;
+    background: rgba(168, 207, 56, .4);
+    border-radius: 20px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+.ruoshui img{
+    width:124px;
+    display:block;
+}
