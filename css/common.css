@@ -46,6 +46,9 @@ nav ul{
 	display: inline;
 	line-height: 60px;
 }
+.navActive{
+	background-color: rgb(65, 156, 212);
+}
 .nav a:link{
 	color: black;
 	text-decoration: none;
@@ -71,4 +74,22 @@ nav ul{
 	margin-top: 100px;
 	margin-bottom: 0;
 	font-size: 40px;
+}
+.pageTitle2{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	font-size: 40px;
+}
+::-webkit-scrollbar{
+	width: 10px;
+	height: 100%;
+	background: #eee;
+}
+::-webkit-scrollbar-thumb{
+	background-color: rgb(65, 156, 200);
+	border-radius: 30px;
+}
+.del{
+	text-decoration: line-through;
 }
