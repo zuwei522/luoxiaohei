@@ -55,3 +55,9 @@
     width:124px;
     display:block;
 }
+
+.juese{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -4,7 +4,11 @@ body{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	/* background-color: ; */
+	margin: 0;
+	position: relative;
+	min-height: 100vh;
 }
+
 .mainPage{
 	width: 70%;
 	margin: 0 auto;
@@ -14,6 +18,7 @@ body{
 	/* background-color: rgba(255, 255, 255, 0.7); */
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
+
 .title{
     color: white;
 	font-size: 60px;
@@ -23,6 +28,7 @@ body{
 	display: block;
 	font-family: 华文新魏;
 }
+
 .titleLogo{
 	background-image: url(../img/149px-罗小黑奔跑.webp);
 	background-position: center;
@@ -32,9 +38,11 @@ body{
 	line-height: 60px;
 	display: inline-block;
 }
+
 nav ul{
 	padding: 0;
 }
+
 .nav{
     list-style: none;
     float: left;
@@ -46,22 +54,28 @@ nav ul{
 	display: inline;
 	line-height: 60px;
 }
+
 .navActive{
 	background-color: rgb(65, 156, 212);
 }
+
 .nav a:link{
 	color: black;
 	text-decoration: none;
 }
+
 .nav a:visited{
     color: black;
 }
+
 .nav a{
 	display: block;
 }
+
 .nav:hover{
 	background-color: gray;
 }
+
 .mainLogo{
 	width: 500px;
 	/* height: 238px; */
@@ -69,27 +83,35 @@ nav ul{
 	margin: auto;
 	/* background-image: url(../img/logo_main.png); */
 }
+
 .pageTitle{
 	text-align: center;
 	margin-top: 100px;
 	margin-bottom: 0;
 	font-size: 40px;
 }
+
 .pageTitle2{
 	text-align: center;
 	margin-top: 20px;
 	margin-bottom: 15px;
 	font-size: 40px;
 }
+
 ::-webkit-scrollbar{
 	width: 10px;
 	height: 100%;
-	background: #eee;
+	background: #f6f6f6;
 }
+
 ::-webkit-scrollbar-thumb{
-	background-color: rgb(65, 156, 200);
-	border-radius: 30px;
+	/* background-color: rgb(65, 156, 200);
+	border-radius: 30px; */
+	background-color: #12b7f5;
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 93, 143, 1) 25%, transparent 25%, transparent 50%, rgba(255, 93, 143, 1) 50%, rgba(255, 93, 143, 1) 75%, transparent 75%, transparent);
+	border-radius: 6px;
 }
+
 .del{
 	text-decoration: line-through;
 }

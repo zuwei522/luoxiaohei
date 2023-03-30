@@ -19,7 +19,7 @@ main {
     background-color: rgb(65, 156, 212);
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     border-radius: 5px;
-    width: 22%;
+    width: 210px;
     /* height: 530px; */
     display: flex;
     flex-direction: column;
