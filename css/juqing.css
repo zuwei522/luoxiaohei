@@ -1,6 +1,14 @@
 section{
     width: 100%;
     display: flex;
-    align-items: flex-start;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.text{
+    width: 90%;
+    font-family: 幼圆;
+    font-size: larger;
+    font-weight: bold;
+    text-indent: 2em;
 }
