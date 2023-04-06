@@ -3,10 +3,8 @@ body{
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	/* background-color: ; */
+	background-color: #906e44;
 	margin: 0;
-	/* position: relative;
-	min-height: 100vh; */
 }
 
 .mainPage{
@@ -15,7 +13,6 @@ body{
 	margin-top: 30px;
 	overflow: hidden;
 	background-color: rgba(65, 156, 212, 0.7);
-	/* background-color: rgba(255, 255, 255, 0.7); */
 	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
@@ -78,10 +75,8 @@ nav ul{
 
 .mainLogo{
 	width: 500px;
-	/* height: 238px; */
 	display: block;
 	margin: auto;
-	/* background-image: url(../img/logo_main.png); */
 }
 
 .pageTitle{
@@ -105,10 +100,8 @@ nav ul{
 }
 
 ::-webkit-scrollbar-thumb{
-	/* background-color: rgb(65, 156, 200);
-	border-radius: 30px; */
 	background-color: #12b7f5;
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 93, 143, 1) 25%, transparent 25%, transparent 50%, rgba(255, 93, 143, 1) 50%, rgba(255, 93, 143, 1) 75%, transparent 75%, transparent);
+	background-image: -webkit-linear-gradient(45deg, rgba(255, 93, 143, 1) 25%, transparent 25%, transparent 50%, rgba(255, 93, 143, 1) 50%, rgba(255, 93, 143, 1) 75%, transparent 75%, transparent);
 	border-radius: 6px;
 }
 
