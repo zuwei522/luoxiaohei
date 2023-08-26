@@ -1,5 +1,5 @@
 body{
-	background-image: url(../img/backgroundImg.jpg);
+	background-image: url(https://cdn.jsdelivr.net/gh/zuwei522/luoxiaohei/img/backgroundImg.jpg);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -27,7 +27,7 @@ body{
 }
 
 .titleLogo{
-	background-image: url(../img/149px-罗小黑奔跑.webp);
+	background-image: url(https://cdn.jsdelivr.net/gh/zuwei522/luoxiaohei/img/149px-罗小黑奔跑.webp);
 	background-position: center;
 	background-size: 100px;
 	width: 60px;
